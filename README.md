@@ -77,7 +77,7 @@ Conforme definido no desafio, esta prova de conceito foi limitada à disciplina 
 
 ## 🔗 Link da Aplicação
 
-👉 **[Inserir aqui o link publicado do Lovable]**
+👉 **[https://draw-analyze.lovable.app]**
 
 ---
 
